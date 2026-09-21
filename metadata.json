@@ -1,0 +1,6 @@
+{
+  "name": "AgriConnect AI",
+  "description": "AI-powered Farmer-FPO digital marketplace connecting growers directly to buyers with demand forecasting, price intelligence, and route optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
